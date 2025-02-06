@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLPj83U6lVLHgMWR/EmI1p8WlF9lPwt+xzFVwQ2Y57++RFEMHw+wEKl1X/D1HehqTbdWfVN3OGXuuYjDjqoQXQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\C sharp\\Project Csharp\\TaskManagementsystem\\TaskManagementsystem\\TaskManagementsystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
